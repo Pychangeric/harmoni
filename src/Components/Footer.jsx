@@ -33,7 +33,9 @@ return (
 		</Column>
 		<Column>
 			<Heading>Contact Us</Heading>
-			<FooterLink href="#">Nairobi</FooterLink>
+				<FooterLink href="#">Tel +254 790771737</FooterLink>
+				<FooterLink href="#">P.O Box 2023 moringa</FooterLink>
+				<FooterLink href="#">music@harmonyplay.com</FooterLink>
 		</Column>
 		<Column>
 			<Heading>Social Media</Heading>
